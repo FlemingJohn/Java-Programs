@@ -17,6 +17,6 @@ class AddBinValues{
 
         String y = "1010111";
 
-        System.out.println(addbinary(x, y);
+        System.out.println(addbinary(x, y));
     }
 }
